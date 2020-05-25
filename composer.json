@@ -1,0 +1,14 @@
+{
+    "name": "cotie/pokemon",
+    "authors": [
+        {
+            "name": "Cotie65",
+            "email": "blanco.cora@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^4.3",
+        "altorouter/altorouter": "^1.2",
+        "benoclock/alto-dispatcher": "^1.0"
+    }
+}
